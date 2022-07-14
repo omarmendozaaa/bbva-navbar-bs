@@ -1,0 +1,1 @@
+export { BbvaNavbarBs } from './src/BbvaNavbarBs.js';

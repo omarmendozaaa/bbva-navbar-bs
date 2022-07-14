@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Home",
+    "route": "/home"
+  },
+  {
+    "name": "Movies",
+    "route": "/movies"
+  },
+  {
+    "name": "Categories",
+    "route": "/categories"
+  }
+]
