@@ -39,15 +39,15 @@ export class BbvaNavbarBs extends LitElement {
     this.menu = [
       {
         "name": "Home",
-        "route": "/home"
+        "route": "home"
       },
       {
         "name": "Movies",
-        "route": "/movies"
+        "route": "movies"
       },
       {
         "name": "Categories",
-        "route": "/categories"
+        "route": "categories"
       }
     ];
   }
